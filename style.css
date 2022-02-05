@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+}
+.container{
+	 
+	margin: 0 auto;
+}
+
+
+.login-section {
+background-color: lightblue;
+padding: 30px;
+width: 220px;
+margin: 8% auto;
+
+transition: 2s ease-in-out;
+}
+
+
+.login-section input{
+ display: block;
+ margin: 5px auto;
+}
+.login-section h2{
+ text-align: center;
+}
+.login-section h5{
+ text-align: center;
+}
+.form-control{
+
+height: 30px;
+width: 200px;
+}
+
+.REGISTER{
+background-color: purple; 
+margin:50px;
+width:200px;
+height: 30px;
+color: white;
+cursor: pointer;
+transition: 0.10s ease-in-out;
+box-shadow: 0px 4px 0px;
+display: block;
+text-align: center;
+
+}
+h1{
+	
+	margin: 50px;
+	display: block;
+	color: black;
+}
+.container button{
+	display: block;
+	background-color: cyan;
+    margin: 50px;
+    width: 90px;
+    height: 30px;
+    border-radius: 20%;
+    cursor: pointer;
+    transition: 0.10s ease-in-out;
+    box-shadow: 2px 2px 2px;
+}
